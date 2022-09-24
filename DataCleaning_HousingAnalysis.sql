@@ -13,7 +13,7 @@ update [Housing Analysis]..[housing ]set saledataConverted = convert(Date,saleda
 
 
 
----Populate propert address data
+---Populate property address data
 
 select propertyaddress from[Housing Analysis]..[housing ];
 
